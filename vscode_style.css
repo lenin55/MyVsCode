@@ -1,0 +1,8 @@
+.monaco-workbench.vs-dark .part.editor>.content .editor-group-container .editor-group-watermark>.letterpress {
+    background-image: url(lenin-p.png)!important;
+    mix-blend-mode: color-burn;
+}
+.monaco-workbench .part.editor>.content .editor-group-container>.editor-group-watermark{
+    width: clamp(300px, 500px, 600px)!important;
+    max-width: unset!important;
+}
